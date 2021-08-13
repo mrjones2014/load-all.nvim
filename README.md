@@ -3,6 +3,10 @@
 Allows you to load all Lua files in a directory at once. Note, this uses `dofile`, not `require`, so it doesn't
 return anything, it just executes the Lua files via `dofile`.
 
+## Requirements
+
+Neovim >0.5.0
+
 ## Installation
 
 ### Packer

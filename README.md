@@ -12,7 +12,7 @@ Neovim >0.5.0
 ### Packer
 
 ```lua
-use { 'mrjones2014/load-all.nvim', requires = 'nvim-lua/plenary.nvim'}
+use { 'mrjones2014/load-all.nvim', requires = 'nvim-lua/plenary.nvim' }
 ```
 
 ### Vim Plug

@@ -26,4 +26,6 @@ Plug 'mrjones2014/load-all.nvim'
 
 ```lua
 require('load-all')(path)
+-- for example
+require('load-all')(os.getenv('HOME') .. '/.config/nvim/lua/plugins')
 ```
